@@ -1,6 +1,6 @@
 # Sobre mim 
 - 👋 Ola meu nome é Matheus 
-- Sou professor de Pensamento Computacional 
+- Sou professor de Pensamento Computacional e Geografia.
 - 👍E-mail de contato: matheus.justo@escola.pr.gov.br
 -  Aula de programação. 
 -  Iniciação à linguagem de programação de JavaScript e Scracth
